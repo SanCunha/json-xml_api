@@ -13,7 +13,7 @@ Este projeto demonstra como fazer requisições HTTP em JSON e XML usando TypeSc
 
    ```bash
    git clone https://github.com/SanCunha/json-xml_api.git
-   cd teste-axios-json-xml
+   cd json-xml_api
 
    ```
 
@@ -28,7 +28,7 @@ Este projeto demonstra como fazer requisições HTTP em JSON e XML usando TypeSc
    ```bash
    npx tsc
    ```
-2. Execute o script principal para gerar o formulário HTML
+2. Execute o script principal para testar as requisições
    ```bash
    npx ts-node src/index.ts
    ```
